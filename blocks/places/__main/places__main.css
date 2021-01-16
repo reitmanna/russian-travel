@@ -1,12 +1,10 @@
-.places__place_head {
+.places__main {
     display: flex;
     justify-content: flex-start;
-    margin-bottom: 48px;
 }
 
 @media screen and (max-width: 425px) {
-    .places__place_head {
+    .places__main {
         display: block;
-        margin: 0 16px;
     }
 }

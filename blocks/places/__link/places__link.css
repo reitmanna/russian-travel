@@ -1,4 +1,4 @@
-.places__place_link {
+.places__link {
     margin-bottom: 0;
     color: #ffffff;
     font-size: 18px;
@@ -6,6 +6,6 @@
     font-style: normal;
 }
 
-.places__place_link:hover {
+.places__link:hover {
     color: rgba(255, 255, 255, .8);
 }
