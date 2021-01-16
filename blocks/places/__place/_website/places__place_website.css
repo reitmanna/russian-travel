@@ -1,0 +1,7 @@
+.places__place_website {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: max-content;
+}

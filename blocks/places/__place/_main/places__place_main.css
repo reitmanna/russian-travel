@@ -1,0 +1,10 @@
+.places__place_main {
+    display: flex;
+    justify-content: flex-start;
+}
+
+@media screen and (max-width: 425px) {
+    .places__place_main {
+        display: block;
+    }
+}

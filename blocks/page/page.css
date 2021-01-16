@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    background-color: #2a2c2f;
+}
+
+.page {
+    font-family: 'Inter', 'Arial', sans-serif;
+    color: #ffffff;
+}
