@@ -1,13 +1,16 @@
 .intro {
-    margin: 92px 48px;
+    margin-top: 92px;
+    margin-bottom: 92px;
+    margin-left: calc((100% - 930px) / 2);
     max-width: 690px;
 }
-/* - автоматические тесты находят ошибку в 6 строке
-@media screen and (min-width: 1024px) {
+
+@media screen and (max-width: 1024px) {
     .intro {
-        margin-left: calc((100% - 930px) / 2);
+        margin-left: 48px;
+    }
 }
-*/
+
 @media screen and (max-width: 768px) {
     .intro {
         margin: 88px 24px;

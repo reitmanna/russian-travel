@@ -1,9 +1,10 @@
 .places__link {
     margin-bottom: 0;
+    width: min-content;
     color: #ffffff;
     font-size: 18px;
     line-height: 22px;
-    font-style: normal;
+    font-style: 400;
 }
 
 .places__link:hover {

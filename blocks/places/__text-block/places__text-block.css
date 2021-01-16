@@ -1,4 +1,9 @@
 .places__text-block {
     padding: 0;
-    margin: 0 16px;
+}
+
+@media screen and (max-width: 425px) {
+    .places__text-block {
+        margin: 0 16px;
+    }
 }

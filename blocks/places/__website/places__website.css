@@ -1,7 +1,6 @@
 .places__website {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: flex-end;
-    width: max-content;
 }

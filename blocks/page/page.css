@@ -1,9 +1,12 @@
-body {
-    margin: 0;
-    background-color: #2a2c2f;
-}
-
 .page {
+    background-color: #2a2c2f;
+    padding: 28px 0 24px;
     font-family: 'Inter', 'Arial', sans-serif;
     color: #ffffff;
 }
+
+@media screen and (max-width: 425px) {
+    .page {
+      padding-top: 16px;
+    }
+  }
