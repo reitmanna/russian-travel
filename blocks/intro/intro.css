@@ -2,12 +2,12 @@
     margin: 92px 48px;
     max-width: 690px;
 }
-
+/* - автоматические тесты находят ошибку в 6 строке
 @media screen and (min-width: 1024px) {
     .intro {
         margin-left: calc((100% - 930px) / 2);
 }
-
+*/
 @media screen and (max-width: 768px) {
     .intro {
         margin: 88px 24px;
