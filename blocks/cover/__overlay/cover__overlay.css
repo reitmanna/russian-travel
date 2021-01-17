@@ -1,11 +1,9 @@
 .cover__overlay {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
+    grid-column: 1/4;
+    grid-row: 1/4;
     background-color: rgba(42, 44, 47, 0);
-    z-index: 1;
+    width: 100vw;
+    height: 100%;
 }
 
 .cover__overlay:hover {
