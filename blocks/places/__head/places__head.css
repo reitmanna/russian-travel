@@ -4,7 +4,7 @@
     margin-bottom: 48px;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 630px) {
     .places__head {
         display: block;
         margin: 0 16px;

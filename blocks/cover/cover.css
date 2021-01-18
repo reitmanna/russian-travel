@@ -1,5 +1,16 @@
-@media screen and (min-width: 1024px) {
+.cover {
+    background: url(../../images/cover-trains.jpg) no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+}
+
+@media screen and (min-width: 1280px) {
     .cover {
-        padding: 0 48px;
+        margin: 0 48px;
+        max-width: 1184px;
+        max-height: 740px;
     }
 }

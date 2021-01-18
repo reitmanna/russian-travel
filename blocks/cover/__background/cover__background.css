@@ -1,6 +1,0 @@
-.cover__background {
-    background: url(../../../images/cover-trains.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: calc(100vw / 1.6);
-}

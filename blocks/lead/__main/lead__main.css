@@ -1,3 +1,24 @@
 .lead__main {
-    width: 100%;
+    max-width: 984px;
+    margin: auto;
+}
+
+@media screen and (max-width: 1280px) {
+    .lead__main {
+        margin: 0 148px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__main {
+        max-width: 928px;
+        margin: 0 48px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .lead__main {
+        width: 100%;
+        margin: 0;
+    }
 }
