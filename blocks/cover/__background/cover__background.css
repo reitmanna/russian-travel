@@ -3,9 +3,4 @@
     background-size: cover;
     width: 100%;
     height: calc(100vw / 1.6);
-    display: grid;
-    grid-template-rows: min-content 1fr min-content;
-    grid-template-columns: min-content 1fr min-content;
-    justify-content: center;
-    align-items: center;
 }
