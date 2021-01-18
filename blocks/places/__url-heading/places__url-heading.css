@@ -2,7 +2,7 @@
     color: #aaaaaa;
     font-size: 12px;
     line-height: 12px;
-    font-style: 400;
+    font-weight: 400;
 }
 
 @media screen and (max-width: 425px) {
