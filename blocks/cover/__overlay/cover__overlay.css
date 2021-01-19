@@ -2,6 +2,7 @@
     background-color: rgba(42, 44, 47, .3);
     width: 100%;
     height: calc(100vw / 1.6);
+    max-height: 740px;
     display: flex;
     flex-direction: column;
     justify-content: center;
