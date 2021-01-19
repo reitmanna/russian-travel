@@ -12,7 +12,7 @@
     }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 730px) {
     .places__block {
         margin-bottom: 50px;
     }

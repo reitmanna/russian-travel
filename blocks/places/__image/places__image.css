@@ -20,7 +20,7 @@
     }
 }
 
-@media screen and (max-width: 630px) {
+@media screen and (max-width: 730px) {
     .places__image {
         margin: 32px 0;
         width: 100%;
