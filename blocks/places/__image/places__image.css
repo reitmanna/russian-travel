@@ -4,7 +4,7 @@
     margin-right: 40px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1200px) {
     .places__image {
         width: 440px;
         height: 440px;
